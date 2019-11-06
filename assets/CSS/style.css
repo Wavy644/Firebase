@@ -1,0 +1,47 @@
+body {
+  background-image: url('/assets/Images/Steam.jpg');
+}
+
+.jumbotron {
+  background-color: #444;
+  text-align: center;
+  width: 100%;
+  border-radius: 2%;
+  font-family: 'Playfair Display SC', serif;
+  opacity: 0.9;
+  color: #fff;
+  letter-spacing: 8px;
+}
+
+#submit, #delete {
+  background-color: rgb(22, 33, 190);
+  color: #fff;
+  width: 10%;
+  font-size: 20px;
+  border: 2px solid;
+}
+
+.previewHeader, .addTrainHeader  {
+  background-color: #444;
+  color: #fff;
+  font-family: 'Belleza', sans-serif;
+  font-size: 20px;
+  opacity: 0.7;
+  border-radius: 2%;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.uppercase, .addTrainHeader {
+  text-transform: uppercase;
+}
+.previewTable {
+  font-family: 'Belleza', sans-serif;
+}
+.previewBody, .addTrainBody {
+  font-family: 'Belleza', sans-serif;
+  opacity: 0.9;
+}
+.addTrainBody {
+  width: 100%;
+}
